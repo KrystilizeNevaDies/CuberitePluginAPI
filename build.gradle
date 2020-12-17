@@ -35,11 +35,4 @@ repositories {
 dependencies {
     compile 'com.github.Minestom:Minestom:c8154b5'
     compile 'org.luaj:luaj-jse:3.0.1'
-    implementation 'com.github.KrystilizeNevaDies:LuaPluginSupport:e4d4ad0'
-}
-
-shadowJar {
-   dependencies {
-      exclude(dependency('com.github.Minestom:Minestom:ac8ba3a'))
-   }
 }
