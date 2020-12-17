@@ -1,0 +1,11 @@
+/.gradle/
+/.project
+/.settings/
+/LICENSE
+/README.md
+/build.gradle
+/gradle/
+/gradlew
+/gradlew.bat
+/settings.gradle
+/src/
