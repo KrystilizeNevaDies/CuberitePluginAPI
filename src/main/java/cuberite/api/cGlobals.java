@@ -1,6 +1,5 @@
 package cuberite.api;
 
-import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 
 import org.luaj.vm2.Globals;
